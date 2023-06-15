@@ -85,7 +85,7 @@ author:
   bio              : "PhD Candidate<br/>@ University of Toronto"
   location         : "Toronto, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=XWLJxfAAAAAJ&hl=en"
   email            : shahrzad.kianidehkordi at mail.utoronto.ca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shkiani"
+  github           : "https://github.com/shkiani"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/shahrzad-kianidehkordi-b922944b/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
