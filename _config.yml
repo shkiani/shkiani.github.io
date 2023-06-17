@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  "sk.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shahrzad Kianidehkordi"
-  avatar           : "profile.png"
+  avatar           : "sk.jpg"
   bio              : "PhD Candidate<br/>@ University of Toronto"
   location         : "Toronto, Canada"
   employer         :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/shkiani"
+  github           : "shkiani"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shahrzad-kianidehkordi-b922944b/"
+  linkedin         : "shahrzad-kianidehkordi-b922944b"
   orcid            : 
   pinterest        :
   soundcloud       :

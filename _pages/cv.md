@@ -8,17 +8,18 @@ redirect_from:
 ---
 
 {% include base_path %}
+[[download](/files/CV.pdf)]
 
-## Professional Affiliations
+## Research and Work Experiences
 
 * 09/2019-present: Graduate Research Assistant
   * University of Toronto, Toronto, Canada
-  * Research Focus: Approximated and Distributed Coded Computing, Personalized and Private Federated Learning
+  * Research Focus: approximated and distributed coded computing, personalized and private federated learning
   * Supervisor: [Prof. Stark C. Draper](https://www.ece.utoronto.ca/people/draper-s/)
 
 * 05/2021-09/2021: Machine Learning Researcher, Intern
   * Accelerated Neural Technology (Ant) Team, Noah’s Ark Lab, Huawei Technologies Co., Montreal
-  * Research Focus: Floating Point Arithmetic and Accelerated Techniques in training Neural Networks 
+  * Research Focus: floating point arithmetic and accelerated techniques in training neural networks 
   * Supervisor: [Dr. Vahid Partovi Nia](https://cerc-datascience.polymtl.ca/person/vahid-partovi-nia/)
 
 * 07/2019: Student
@@ -28,12 +29,12 @@ redirect_from:
  
 * 07/2015-09/2015: Undergraduate Research Intern
   * Chinese University of Hong Kong, Department of Information Engineering
-  * Research Focus: Network Information Theory 
+  * Research Focus: network information theory 
   * Supervisor: [Prof. Chandra Nair](http://chandra.ie.cuhk.edu.hk/)
  
-* 07/2019: Undergraduate Research Assistant
+* 01/2015-05/2017: Undergraduate Research Assistant
   * [Multimedia and Signal Processing Lab](http://ee.sharif.edu/~msl/), Sharif University of Technology
-  * Research Focus: Removal of Artifacts from PPG and 3D acceleration Signals 
+  * Research Focus: removal of artifacts from PPG and 3D acceleration signals 
   * Supervisor: [Prof. Farokh Marvasti](http://acri.sharif.ir/resume/marvasti)
  
 ## Education
@@ -48,7 +49,7 @@ redirect_from:
 
 * Gold medalist in National Mathematical Olympiad in Iran, 2011
 * 8th place in IEEE Signal Processing Cup 2015 among 60 teams
-* Accepted into Chinese University of Hong Kong's competitive internship, granted with full scholarships, 2015
+* Accepted into the Chinese University of Hong Kong's competitive internship, granted with full scholarships, 2015
 * Accepted into the IHPCSS in Japan, granted with full scholarship, 2019
 * Winner of Ontario Graduate Scholarship (OGS) for two consecutive years, 2019-2021
 * Winner of DiDi graduate award for three consecutive years, 2020-2023
