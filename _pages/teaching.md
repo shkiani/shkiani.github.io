@@ -10,8 +10,8 @@ This page provides an overview on my teaching experience so far.
 | Teaching Assistant| University of Toronto's course                                                               |
 | ---------          |:---------                                                      |
 | Winter 2023     | *Graduate level:* ECE1762 - Algorithms and Data Structures, Prof. Zisis Poulos    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     |
-| Fall 2019/20/21/22     | *Undergraduate level:* MAT290 - Advanced Engineering Maths, Prof. Adrian Nachman              |
-| Winter 2019/20/22     | *Undergraduate level:* ECE216 - Signal and Systems, Prof. Josh Taylor (2019/20) and Prof. Lacra Pavel (2022)              |
+| Fall 2019/20/21/22/23     | *Undergraduate level:* MAT290 - Advanced Engineering Maths, Prof. Adrian Nachman              |
+| Winter 2019/20/22/24     | *Undergraduate level:* ECE216 - Signal and Systems, Prof. Josh Taylor (2019/20) and Prof. Lacra Pavel (2022)              |
 | Fall 2020     | *Undergraduate level:* CSC373 - Algorithm Design, Analysis and Complexity, Prof. Nisarg Shah               |
 | Fall 2018     | *Undergraduate level:* ECE367 - Matrix Algebra and Optimization, Prof. Stark Draper              |
 

@@ -16,6 +16,11 @@ redirect_from:
   * University of Toronto, Toronto, Canada
   * Research Focus: approximated and distributed coded computing, personalized and private federated learning
   * Supervisor: [Prof. Stark C. Draper](https://www.ece.utoronto.ca/people/draper-s/)
+  
+* 09/2019-present: Visiting Researcher, Intern
+  * SprintML Lab, CISPA Helmholtz Center for Information Security, Germany
+  * Research Focus: modeling dynamic trust and incentives, individualized differential privacy in federated learning
+  * Supervisor: [Prof. Franziska Boenisch](https://franziska-boenisch.de/), [Prof. Adam Dziedzic](https://adam-dziedzic.com/)
 
 * 05/2021-09/2021: Machine Learning Researcher, Intern
   * Accelerated Neural Technology (Ant) Team, Noah’s Ark Lab, Huawei Technologies Co., Montreal
@@ -43,6 +48,7 @@ redirect_from:
 * Minor in Economics, Department of Management and Economics, Sharif University of Technology, 2017
 * MASc. in Electrical and Computer Engineering (Communications), University of Toronto, 2019
 * Certified at International High-Performance Computing Summer School (IHPCSS), RIKEN Center for Computational Science(R-CCS) and Kobe University, Japan 2019
+* Certified at North American School of Information Theory (NASIT), University of Pennsylvania, Philadelphia, PA, USA, 2023
 * Ph.D in Electrical and Computer Engineering (Communications), University of Toronto, 2024 (expected)
 
 ## Prizes and Honors
@@ -52,6 +58,7 @@ redirect_from:
 * Accepted into the Chinese University of Hong Kong's competitive internship, granted with full scholarships, 2015
 * Accepted into the IHPCSS in Japan, granted with full scholarship, 2019
 * Winner of Ontario Graduate Scholarship (OGS) for two consecutive years, 2019-2021
-* Winner of DiDi graduate award for three consecutive years, 2020-2023
+* Recipient of University of Toronto student and research fellowship, 2017 - 2024
+* Winner of DiDi graduate award for three consecutive years, 2020-2024
 * NSERC Scholar, Alexander Graham Bell Graduate Scholarship-Doctoral (CGS D3), 2021-2024
-* Recipient of University of Toronto student and research fellowship, 2017 - present
+* Mitacs Globalink research award abroad, Apr 2024
