@@ -12,6 +12,11 @@ This page provides an overview on my publications so far.
   * Master of Applied Science in Electrical and Computer Engineering, University of Toronto, Toronto, Canada, Sep. 2019.
 
 ## Journal Papers
+* Controlled privacy leakage propagation throughout overlapping
+grouped learning [[Link](https://ieeexplore.ieee.org/document/10559973)]
+  * *Shahrzad Kianidehkordi*, Franziska Boenisch, Stark Draper
+  * IEEE J. Selected Areas in Inf. Theory (JSAIT), Vol 5, pp. 442-463, Jun. 2024.
+
 * Successive Approximated Coded Matrix Multiplication [[Link](https://ieeexplore.ieee.org/abstract/document/9829717)]
   * *Shahrzad Kianidehkordi* and Stark Draper
   * IEEE J. Selected Areas in Inf. Theory (JSAIT), 3 (No. 2), pp. 286-305, Jun. 2022.
@@ -26,6 +31,11 @@ This page provides an overview on my publications so far.
 
 
 ## Conference Papers and Letters
+* Controlled privacy leakage propagation throughout overlapping
+grouped learning
+  * *Shahrzad Kianidehkordi*, Franziska Boenisch, Stark Draper
+  * IEEE International Symposium on Information Theory (ISIT), Athens, Greece, Jul. 2024.
+
 * Successive Approximated Coded Matrix Multiplication [[Link](https://ieeexplore.ieee.org/abstract/document/9834389)]
   * *Shahrzad Kianidehkordi* and Stark Draper
   * IEEE International Symposium on Information Theory (ISIT), pp. 838-843, Espoo, Finland, Jun. 2022.
