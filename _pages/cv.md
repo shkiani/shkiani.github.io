@@ -17,8 +17,8 @@ redirect_from:
   * Research Focus: approximated and distributed coded computing, personalized and private federated learning
   * Supervisor: [Prof. Stark C. Draper](https://www.ece.utoronto.ca/people/draper-s/)
   
-* 09/2019-present: Visiting Researcher, Intern
-  * SprintML Lab, CISPA Helmholtz Center for Information Security, Germany
+* 09/2019-present:Visiting Researcher, Intern
+  * [SprintML Lab](https://sprintml.com/), CISPA Helmholtz Center for Information Security, Germany
   * Research Focus: modeling dynamic trust and incentives, individualized differential privacy in federated learning
   * Supervisor: [Prof. Franziska Boenisch](https://franziska-boenisch.de/), [Prof. Adam Dziedzic](https://adam-dziedzic.com/)
 
