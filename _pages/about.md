@@ -25,7 +25,7 @@ My research has been generously supported by over 15 scholarships and grants, in
 
 # Recent News
 
-* March 2025: I passed my Ph.D. Final Oral Exam and submitted my Ph.D. thesis, which was accepted \textit{as is} (with no required revisions)! Huge thanks to my committee members Prof. Stark Draper, Prof. Mohammad Ali Maddah-Ali, Prof. Azarakhsh Malekian, and Prof. Dimitrios Hatzinakos!
+* March 2025: I passed my Ph.D. Final Oral Exam and submitted my Ph.D. thesis, which was accepted *as is* (with no required revisions)! Huge thanks to my committee members Prof. Stark Draper, Prof. Mohammad Ali Maddah-Ali, Prof. Azarakhsh Malekian, and Prof. Dimitrios Hatzinakos!
 
 * February 2025: I was honored to receive the Farid and Diana Najm Graduate Fellowship and Shahid U. H. Qureshi Memorial Scholarship (both awarded to one ECE student per year), as well as the PhD Graduate Award for the second time! Many thanks to the donors for their support and trust in my work!
 
