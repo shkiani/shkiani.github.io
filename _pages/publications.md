@@ -11,7 +11,11 @@ This page provides an overview on my publications so far.
   * *Shahrzad Kianidehkordi*
   * Master of Applied Science in Electrical and Computer Engineering, University of Toronto, Toronto, Canada, Sep. 2019.
 
-## Journal Papers
+## Journals and Journal-Length Computer Science Paper:
+* Differentially Private Federated Learning with Time-Adaptive Privacy Spending [[Link](https://openreview.net/forum?id=W0nydevOlG&noteId=zEslc0ErHW)]
+  * *Shahrzad Kianidehkordi*, Nupur Kulkarni, Adam Dziedzic, Stark Draper, Franziska Boenisch
+  * International Conference on Learning Representations (ICLR), Singapore, 2025.
+  
 * Controlled Privacy Leakage Propagation Throughout Overlapping
 Grouped Learning [[Link](https://ieeexplore.ieee.org/document/10559973)]
   * *Shahrzad Kianidehkordi*, Franziska Boenisch, Stark Draper
@@ -31,10 +35,6 @@ Grouped Learning [[Link](https://ieeexplore.ieee.org/document/10559973)]
 
 
 ## Conference Papers and Letters
-* Differentially Private Federated Learning with Time-Adaptive Privacy Spending [[Link](https://openreview.net/forum?id=W0nydevOlG&noteId=zEslc0ErHW)]
-  * *Shahrzad Kianidehkordi*, Nupur Kulkarni, Adam Dziedzic, Stark Draper, Franziska Boenisch
-  * International Conference on Learning Representations (ICLR), Singapore, 2025.
-
 * Controlled Privacy Leakage Propagation Throughout Overlapping
 Grouped Learning
   * *Shahrzad Kianidehkordi*, Franziska Boenisch, Stark Draper

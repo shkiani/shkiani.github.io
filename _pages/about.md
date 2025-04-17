@@ -15,14 +15,12 @@ I am currently on the 2025 job market, so feel free to reach out if you know of 
 My name is Shahrzad. I am a Ph.D. researcher and engineer passionate about tackling real-word, cutting-edge problems in science and technology, especially those that seem more challenging. I am always excited to explore and develop creative, simple solutions by applying expertise across disciplines and staying open to new ideas. 
 
 I recently submitted my Ph.D. thesis, which was accepted *as is* (with no required revisions), and will soon be awarded my Ph.D. from the [Electrical and Computer Engineering Department](https://www.ece.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca/) (UofT). I was fortunate to be advised by Prof. [Stark C. Draper](https://www.ece.utoronto.ca/people/draper-s/) through both my Ph.D. and MASc. studies and to collaborate with many world-class researchers and mentors along the way. Before joining UofT, I earned my B.Sc. in Electrical Engineering with a minor in Economics from the [Sharif University of Technology](http://www.en.sharif.edu/).
-
 I also explored industry and academic collaborations through internships at CISPA Helmholtz Center for Information Security (Spring 2024), Huawei Accelerated Neural Technology team (Summer 2021), and the Chinese University of Hong Kong (Summer 2015).
 Additionally, I was certified by the [International High-Performance Computing Summer School (IHPCSS), Japan 2019](https://ss19.ihpcss.org/), and the [North American School of Information Theory (NASIT), USA 2023](https://nasit.seas.upenn.edu/).
 
 # Research
 
 Over the years, I have worked to bridge ideas and communities across *distributed optimization*, *machine learning*, and *privacy*. My research journey has mainly focused on *straggler-resilience distributed optimization* and *privacy-preserving AI*. I have dedicated much of my work to making large-scale distributed systems more reliable and robust, designing methods that efficiently manage delays (stragglers) and handle diverse, sometimes conflicting privacy constraints within these systems. 
-
 My research has been generously supported by over 15 scholarships and grants, including but not limited to the NSERC Alexander Graham Bell Canada Graduate Scholarship-Doctoral (CGS D3), the DiDi graduate award for four consecutive years, the Ontario Graduate Scholarship for two consecutive years, the MITACS Globalink Research Award, and UofT's student and research fellowship.
 
 # Recent News
