@@ -13,7 +13,7 @@ I am currently on the 2025 job market, so please reach out if you know of a good
 # About me
 
 I am a Ph.D. researcher and engineer working at the intersection of *distributed systems*, *machine learning*, and *data privacy*. I have dedicated much of my work to enhancing the reliability of large-scale ML-driven distributed systems by making them more robust against delays (stragglers) and adaptable to diverse, sometimes conflicting, privacy requirements. 
-My work draws on tools from *error-correction coding* as well as *approximate*, *randomized*, and *numerically stable* algorithms to design our **straggler-resilient distributed optimization** methods. I validate our methods on real-world platforms like *Amazon EC2* and *Canada's SciNet* HPC cluster. I also explore *differential privacy* techniques and use *PyTorch-friendly* libraries such as Opacus to test our **privacy-preserving federated learning** methods.
+I draw on tools from *error-correction coding* as well as *approximate*, *randomized*, and *numerically stable* algorithms to design our **straggler-resilient distributed optimization** methods. I validate our methods on real-world platforms like *Amazon EC2* and *Canada's SciNet* HPC cluster. I also explore *differential privacy* techniques and use *PyTorch-friendly* libraries such as Opacus to test our **privacy-preserving federated learning** methods.
 
 My research has been recognized and generously supported by over 15 scholarships and grants, including but not limited to the NSERC Alexander Graham Bell Canada Graduate Scholarship-Doctoral (CGS D3), DiDi graduate award, Ontario Graduate Scholarship, and MITACS Globalink Research Award.
 
