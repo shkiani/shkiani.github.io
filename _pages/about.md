@@ -12,7 +12,7 @@ I am currently on the 2025 job market, so please reach out if you know of a good
 
 # About me
 
-I am a Ph.D. researcher and engineer working at the intersection of *distributed systems*, *machine learning*, and *data privacy*. I have dedicated much of my work to enhancing the reliability of large-scale ML-driven distributed systems by making them more robust against delays (stragglers) and adaptable to diverse, sometimes conflicting, privacy requirements. 
+I am a Ph.D. researcher and engineer who lives at the crossroads of *distributed systems*, *machine learning*, and *data privacy*, where ML meets massive distributed systems and we try to make things smarter and more trustworthy. I'm especially into making ML systems more robust against delays (stragglers) and better at protecting user privacy in settings like *federated learning*. 
 I draw on tools from *error-correction coding* as well as *approximate*, *randomized*, and *numerically stable* algorithms to design our **straggler-resilient distributed optimization** methods. I validate our methods on real-world platforms like *Amazon EC2* and *Canada's SciNet* HPC cluster. I also explore *differential privacy* techniques and use *PyTorch-friendly* libraries such as Opacus to test our **privacy-preserving federated learning** methods.
 
 My research has been recognized and generously supported by over 15 scholarships and grants, including but not limited to the NSERC Alexander Graham Bell Canada Graduate Scholarship-Doctoral (CGS D3), DiDi graduate award, Ontario Graduate Scholarship, and MITACS Globalink Research Award.
@@ -21,6 +21,7 @@ Currently, I am a Ph.D. student at the [University of Toronto](https://www.utoro
 I also explored industry and academic collaborations through internships at [CISPA Helmholtz Center for Information Security](https://sprintml.com/) (Spring 2024), Huawei Accelerated Neural Technology team (Summer 2021), and the Chinese University of Hong Kong (Summer 2015).
 Additionally, I was certified by the [International High-Performance Computing Summer School (IHPCSS), Japan 2019](https://ss19.ihpcss.org/), and the [North American School of Information Theory (NASIT), USA 2023](https://nasit.seas.upenn.edu/).
 
+When I'm not debugging code, developing research ideas, or writing papers, you will probably find me hiking somewhere in nature, cooking and testing new dishes, planting herbs that may or may not survive, or trying to win at backgammon or other strategic board games.
 
 # Recent News
 
