@@ -8,20 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently on the 2025 job market, so please reach out if you know of a good opportunity!
+I am currently on the 2025 job market. Please contact me if you would like to discuss potential openings or collaborations!
 
 # About me
 
-I am a Ph.D. researcher and engineer who lives at the crossroads of *distributed systems*, *machine learning*, and *data privacy*, where ML meets massive distributed systems and we try to make things smarter and more trustworthy. I'm especially into making ML systems more robust against delays (stragglers) and better at protecting user privacy in settings like *federated learning*. 
-I draw on tools from *error-correction coding* as well as *approximate*, *randomized*, and *numerically stable* algorithms to design our **straggler-resilient distributed optimization** methods. I validate our methods on real-world platforms like *Amazon EC2* and *Canada's SciNet* HPC cluster. I also explore *differential privacy* techniques and use *PyTorch-friendly* libraries such as Opacus to test our **privacy-preserving federated learning** methods.
+I am a Ph.D. researcher and engineer, working at the intersection of *distributed systems*, *machine learning*, and *data privacy*, where ML meets massive distributed systems and we try to make things smarter and more trustworthy. I focus on making ML systems more robust against delays (stragglers) and more privacy-aware in settings like *federated learning*. 
+I draw on tools from *error-correction coding* and *randomized*, *numerically stable* algorithms to design our **straggler-resilient distributed optimization** methods. I validate our methods on real-world platforms like *Amazon EC2* and *Canada's SciNet* HPC cluster. I also explore *differential privacy* techniques and use *PyTorch-friendly* libraries such as Opacus to test our **privacy-preserving federated learning** methods.
 
 My research has been recognized and generously supported by over 15 scholarships and grants, including but not limited to the NSERC Alexander Graham Bell Canada Graduate Scholarship-Doctoral (CGS D3), DiDi graduate award, Ontario Graduate Scholarship, and MITACS Globalink Research Award.
 
-Currently, I am a Ph.D. student at the [University of Toronto](https://www.utoronto.ca/) (UofT), and will soon be awarded my Ph.D. in Electrical and Computer Engineering. I have been fortunate to be advised by Prof. [Stark C. Draper](https://www.ece.utoronto.ca/people/draper-s/) through both my Ph.D. and MASc. studies and to collaborate with many world-class researchers and mentors along the way. Before joining UofT, I earned my B.Sc. in Electrical Engineering with a minor in Economics from the [Sharif University of Technology](http://www.en.sharif.edu/).
-I also explored industry and academic collaborations through internships at [CISPA Helmholtz Center for Information Security](https://sprintml.com/) (Spring 2024), Huawei Accelerated Neural Technology team (Summer 2021), and the Chinese University of Hong Kong (Summer 2015).
-Additionally, I was certified by the [International High-Performance Computing Summer School (IHPCSS), Japan 2019](https://ss19.ihpcss.org/), and the [North American School of Information Theory (NASIT), USA 2023](https://nasit.seas.upenn.edu/).
+Currently, I am completing my Ph.D. in Electrical and Computer Engineering at the [University of Toronto](https://www.utoronto.ca/) (UofT), where I have been fortunate to be advised by Prof. [Stark C. Draper](https://www.ece.utoronto.ca/people/draper-s/) through my Ph.D. and MASc. journeys. Before joining UofT, I earned my B.Sc. in Electrical Engineering with a minor in Economics from the [Sharif University of Technology](http://www.en.sharif.edu/).
+Along the way, I've explored industry and academic collaborations through internships at [CISPA Helmholtz Center for Information Security](https://sprintml.com/) (Spring 2024), Huawei Accelerated Neural Technology team (Summer 2021), and the Chinese University of Hong Kong (Summer 2015).
+I've also been certified by international programs like the [International HPC Summer School, Japan 2019](https://ss19.ihpcss.org/), and [North American School of Information Theory, USA 2023](https://nasit.seas.upenn.edu/).
 
 When I'm not debugging code, developing research ideas, or writing papers, you will probably find me hiking somewhere in nature, cooking and testing new dishes, planting herbs that may or may not survive, or trying to win at backgammon or other strategic board games.
+
 
 # Recent News
 
