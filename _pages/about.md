@@ -8,19 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-<small>
+<style>
+body {
+  font-size: 12px;
+}
+</style>
+
 I recently completed my Ph.D. in Electrical and Computer Engineering (ECE) at the [University of Toronto](https://www.utoronto.ca/) (UofT), advised by Prof. [Stark C. Draper](https://www.ece.utoronto.ca/people/draper-s/), working at the intersection of distributed systems, machine learning, and data privacy. Before that, I received my MASc. in ECE at UofT, and B.Sc. in Electrical Engineering with a minor in Economics at the [Sharif University of Technology](http://www.en.sharif.edu/).
 
 To expand industry and academic collaborations, I conducted internships at [CISPA Helmholtz Center for Information Security](https://sprintml.com/), Huawei's Accelerated Neural Technology team, and the Chinese University of Hong Kong.
 I've also been certified at the [International High-Performance Computing Summer School, Japan (IHPCSS'2019)](https://ss19.ihpcss.org/) and the [North American School of Information Theory, USA (NASIT'2023)](https://nasit.seas.upenn.edu/). 
 
 **I am currently on the 2025 job market. Please contact me if you would like to discuss potential openings or collaborations!**
-</small>
 
 ## Research Interests
 
 
-<small>
 
 I enjoy creating novel solutions for big data and machine learning problems while exploring diverse research topics, transferring ideas across domains, and ensuring practical effectiveness. My research has focused on distributed systems with heterogeneous characteristics—such as varying computational speeds, privacy constraints, and utility objectives. In such settings, I have worked on **distributed matrix multiplication**, a fundamental operation in ML training and inference, and **federated learning**, which enables collaborative model training while keeping data local. To address stragglers in distributed computation and enhance privacy in federated learning, I have applied ideas from:
 
@@ -33,7 +36,6 @@ I enjoy creating novel solutions for big data and machine learning problems whil
 * **Optimization** tunes algorithm parameters and ensures training convergence under privacy and utility constraints.
 
 I implemented our differentially private federated learning solutions using Python with PyTorch and Opacus, and evaluated our straggler-resilient methods on Amazon EC2 and Canada's SciNet HPC cluster.
-</small>
 
 
 ## Selected Publications
@@ -124,6 +126,4 @@ I implemented our differentially private federated learning solutions using Pyth
 
 ## Personal
 
-<small>
 Outside of research, I enjoy practicing creativity through cooking and experimenting with new dishes, hiking new trails, and trying to win at backgammon or other strategic games. When I'm not lazy, I spend time gardening. Whenever possible, I travel to explore new cultures.
-</small>
