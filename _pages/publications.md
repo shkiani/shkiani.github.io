@@ -106,31 +106,84 @@ This page provides an overview on my publications so far.
 <br>
 
 ## Conference Papers and Letters
-* Controlled Privacy Leakage Propagation Throughout Overlapping
-Grouped Learning
-  * *Shahrzad Kianidehkordi*, Franziska Boenisch, Stark Draper
-  * IEEE International Symposium on Information Theory (ISIT), Athens, Greece, Jul. 2024.
 
-* Successive Approximated Coded Matrix Multiplication [[Link](https://ieeexplore.ieee.org/abstract/document/9834389)]
-  * *Shahrzad Kianidehkordi* and Stark Draper
-  * IEEE International Symposium on Information Theory (ISIT), pp. 838-843, Espoo, Finland, Jun. 2022.
 
-* Hierarchical Coded Elastic Computing [[Link](https://ieeexplore.ieee.org/abstract/document/9414863)]
-  * *Shahrzad Kianidehkordi*, Tharindu Adikari, Stark Draper
-  * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 4045-4049, Toronto, ON, Jun. 2021.
-  
-* Cuboid Partitioning for Hierarchical Coded Matrix Multiplication [[Link](https://arxiv.org/pdf/1907.08819.pdf)], [[Poster](/files/Publications_poster_CODML.pdf)]
-  * *Shahrzad Kianidehkordi*, Nuwan Ferdinand, Stark Draper
-  * IEEE International Conference on Machine Learning (ICML), Workshop on Coded Machine Learning, Los Angeles, CA, Jun. 2019.
-  
-* Hierarchical Coded Matrix Multiplication [[Link](https://ieeexplore.ieee.org/abstract/document/8929896)]
-  * *Shahrzad Kianidehkordi*, Nuwan Ferdinand, and Stark Draper
-  * IEEE Canadian Workshop Information Theory (CWIT), Hamilton, ON, Jun. 2019.
-  
-* Exploitation of Stragglers in Coded Computation [[Link](https://ieeexplore.ieee.org/abstract/document/8437871)]
-  * *Shahrzad Kianidehkordi*, Nuwan Ferdinand, and Stark Draper
-  * IEEE International Symposium on Information Theory (ISIT), pp. 1988-1992, Vail, Colorado, Jun. 2018. 
-  
-* Heart Rate Tracking Using Wrist-type Photoplethysmographic (PPG) Signals During Physical Exercise With Simultaneous Accelerometery [[Link](https://ieeexplore.ieee.org/abstract/document/7359158)]
-  * Mahdi Boloursaz Mashhadi, Ehsan Asadi, Mohsen Eskandari, *Shahrzad Kianidehkordi*, and Farokh Marvasti
-  * IEEE Signal Processing Letters (SPL), 23 (No. 2), pp. 227-231, Feb. 2016. 
+<style type="text/css">
+  .tg  {border-collapse:collapse;border-spacing:0;}
+  .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal;}
+  .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+  .tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+  .tg .tg-wk8r{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+
+<table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-wk8r">ISIT 2024</th>
+      <th class="tg-oe15">Controlled Privacy Leakage Propagation Throughout Overlapping Grouped Learning <br> <u>Shahrzad Kiani</u>, Franziska Boenisch, Stark Draper <br> IEEE International Symposium on Information Theory (ISIT), Athens, Greece, Jul. 2024.
+        <span style="display: block; margin-bottom: -13px;"></span> <br>
+        <a href="https://ieeexplore.ieee.org/document/10619521">
+          <img src="https://img.shields.io/badge/PDF-80000f" alt="PDF" style="width: auto; height: 20px;"/>
+        </a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th class="tg-wk8r">ISIT 2022</th>
+      <th class="tg-oe15">Successive Approximated Coded Matrix Multiplication <br><u>Shahrzad Kiani</u>, Stark Draper <br> IEEE International Symposium on Information Theory (ISIT), pp. 838-843, Espoo, Finland, Jun. 2022.
+        <span style="display: block; margin-bottom: -13px;"></span> <br> 
+        <a href="https://ieeexplore.ieee.org/abstract/document/9834389">
+          <img src="https://img.shields.io/badge/PDF-80000f" alt="PDF" style="width: auto; height: 20px;"/>
+        </a>
+      </th>
+    </tr>
+    <tr>
+      <th class="tg-wk8r">ICASSP 2021</th>
+      <th class="tg-oe15">Hierarchical Coded Elastic Computing <br><u>Shahrzad Kiani</u>, Tharindu Adikari, Stark Draper <br> IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 4045-4049, Toronto, ON, Jun. 2021.
+        <span style="display: block; margin-bottom: -13px;"></span> <br> 
+        <a href="https://ieeexplore.ieee.org/abstract/document/9414863">
+          <img src="https://img.shields.io/badge/PDF-80000f" alt="PDF" style="width: auto; height: 20px;"/>
+        </a>
+      </th>
+    </tr>
+    <tr>
+      <th class="tg-wk8r">ICML WK 2019</th>
+      <th class="tg-oe15">Cuboid Partitioning for Hierarchical Coded Matrix Multiplication <br><u>Shahrzad Kiani</u>,  Nuwan Ferdinand, Stark Draper <br> IEEE International Conference on Machine Learning (ICML), Workshop on Coded Machine Learning, Los Angeles, CA, Jun. 2019.
+        <span style="display: block; margin-bottom: -13px;"></span> <br> 
+        <a href="https://arxiv.org/pdf/1907.08819.pdf">
+          <img src="https://img.shields.io/badge/PDF-80000f" alt="PDF" style="width: auto; height: 20px;"/>
+        </a>
+      </th>
+    </tr>
+    <tr>
+      <th class="tg-wk8r">CWIT 2019</th>
+      <th class="tg-oe15"> Hierarchical Coded Matrix Multiplication <br><u>Shahrzad Kiani</u>,  Nuwan Ferdinand, Stark Draper <br> IEEE Canadian Workshop Information Theory (CWIT), Hamilton, ON, Jun. 2019.
+        <span style="display: block; margin-bottom: -13px;"></span> <br> 
+        <a href="https://ieeexplore.ieee.org/abstract/document/8929896">
+          <img src="https://img.shields.io/badge/PDF-80000f" alt="PDF" style="width: auto; height: 20px;"/>
+        </a>
+      </th>
+    </tr>
+    <tr>
+      <th class="tg-wk8r">ISIT 2018</th>
+      <th class="tg-oe15"> Exploitation of Stragglers in Coded Computation <br><u>Shahrzad Kiani</u>,  Nuwan Ferdinand, Stark Draper <br> IEEE International Symposium on Information Theory (ISIT), pp. 1988-1992, Vail, Colorado, Jun. 2018.
+        <span style="display: block; margin-bottom: -13px;"></span> <br> 
+        <a href="https://ieeexplore.ieee.org/abstract/document/8437871">
+          <img src="https://img.shields.io/badge/PDF-80000f" alt="PDF" style="width: auto; height: 20px;"/>
+        </a>
+      </th>
+    </tr>
+    <tr>
+      <th class="tg-wk8r">SPL 2016</th>
+      <th class="tg-oe15"> Heart Rate Tracking Using Wrist-type Photoplethysmographic (PPG) Signals During Physical Exercise With Simultaneous Accelerometery <br>Mahdi Boloursaz Mashhadi, Ehsan Asadi, Mohsen Eskandari, <u>Shahrzad Kiani</u>, and Farokh Marvasti <br> IEEE Signal Processing Letters (SPL), 23 (No. 2), pp. 227-231, Feb. 2016. 
+        <span style="display: block; margin-bottom: -13px;"></span> <br> 
+        <a href="https://ieeexplore.ieee.org/abstract/document/7359158">
+          <img src="https://img.shields.io/badge/PDF-80000f" alt="PDF" style="width: auto; height: 20px;"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+</table>
+
+<br>
