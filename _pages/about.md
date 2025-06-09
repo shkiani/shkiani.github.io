@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Hi and welcome to my page!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,17 +17,15 @@ I've also been certified at the [International High-Performance Computing Summer
 
 ---
 
-I enjoy creating novel solutions for big data and machine learning problems while exploring diverse research topics, transferring ideas across domains, and ensuring practical effectiveness. My research has focused on distributed systems with heterogeneous characteristics—such as varying computational speeds, privacy constraints, and utility objectives. In such settings, I have worked on two distributed ML tasks: **distributed matrix multiplication**, a fundamental operation in ML training and inference, and **federated learning**, which enables collaborative model training while keeping data local.
+I enjoy creating novel solutions for big data and machine learning problems while exploring diverse research topics, transferring ideas across domains, and ensuring practical effectiveness. My research has focused on distributed systems with heterogeneous characteristics—such as varying computational speeds, privacy constraints, and utility objectives. In such settings, I have worked on **distributed matrix multiplication**, a fundamental operation in ML training and inference, and **federated learning**, which enables collaborative model training while keeping data local. To address stragglers in distributed computation and enhance privacy in federated learning, I have applied ideas from:
 
-To address stragglers in distributed computation and enhance privacy in federated learning, I have applied ideas from:
+* **Error-correction codes** add efficient redundant computation through coding and recover results through decoding.
 
-* **Error-correction codes**: to add efficient redundant computation through coding and recover results through decoding.
+* **Randomized, numerically stable, and approximate algorithms** trade off accuracy for faster task recovery using polynomial interpolation.
 
-* **Randomized, numerically stable, and approximate algorithms**: to trade off accuracy for faster task recovery using polynomials and their interpolation methods.
+* **Differential privacy** anonymizes data participation by applying controlled perturbation through noise, sampling, and clipping.
 
-* **Differential privacy**: to anonymize data participation by applying controlled perturbation such as noise addition, data sampling, model clipping.
-
-* **Optimization**: to tune algorithm parameters and ensure training convergence under privacy and utility constraints.
+* **Optimization** tunes algorithm parameters and ensures training convergence under privacy and utility constraints.
 
 I implemented our differentially private federated learning solutions using Python with PyTorch and Opacus, and evaluated our straggler-resilient methods on Amazon EC2 and Canada’s SciNet HPC cluster.
 
