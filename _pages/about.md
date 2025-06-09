@@ -29,14 +29,7 @@ I enjoy creating novel solutions for big data and machine learning problems whil
 
 * **Optimization** tunes algorithm parameters and ensures training convergence under privacy and utility constraints.
 
-I implemented our differentially private federated learning solutions using Python with PyTorch and Opacus, and evaluated our straggler-resilient methods on Amazon EC2 and Canada’s SciNet HPC cluster.
-
-## Personal
-
----
-
-Outside of research, I enjoy practicing creativity through cooking and experimenting with new dishes, hiking new trails, and trying to win at backgammon or other strategic games. When I'm not feeling lazy, I spend time gardening. Whenever possible, I travel to explore new cultures.
-
+I implemented our differentially private federated learning solutions using Python with PyTorch and Opacus, and evaluated our straggler-resilient methods on Amazon EC2 and Canada's SciNet HPC cluster.
 
 
 ## Recent News
@@ -50,3 +43,10 @@ Outside of research, I enjoy practicing creativity through cooking and experimen
 * January 2025: Our paper, [Differentially Private Federated Learning with Time-Adaptive Privacy Spending](https://openreview.net/forum?id=W0nydevOlG&noteId=zEslc0ErHW), has been accepted to ICLR 2025!
 
 * December 2024: I passed my Ph.D. Departmental Oral Exam! Huge thanks to my committee members Prof. Stark Draper, Prof. Nicolas Papernot, and Prof. Dimitrios Hatzinakos.
+
+
+## Personal
+
+---
+
+Outside of research, I enjoy practicing creativity through cooking and experimenting with new dishes, hiking new trails, and trying to win at backgammon or other strategic games. When I'm not lazy, I spend time gardening. Whenever possible, I travel to explore new cultures.

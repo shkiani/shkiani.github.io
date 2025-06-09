@@ -5,9 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-# Selected Awards
-
----
 * 2025-Doctoral Completion Awards at the University of Toronto
 * 2017-2025-Student and Research Fellowships at the University of Toronto
 * 2021-2024-NSERC Scholar, Alexander Graham Bell Graduate Scholarship-Doctoral (CGS D3)
