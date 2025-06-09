@@ -1,5 +1,6 @@
 ---
 permalink: /
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,6 +13,7 @@ I recently completed my Ph.D. in Electrical and Computer Engineering (ECE) at th
 To expand industry and academic collaborations, I conducted internships at [CISPA Helmholtz Center for Information Security](https://sprintml.com/), Huawei's Accelerated Neural Technology team, and the Chinese University of Hong Kong.
 I've also been certified at the [International High-Performance Computing Summer School, Japan (IHPCSS'2019)](https://ss19.ihpcss.org/) and the [North American School of Information Theory, USA (NASIT'2023)](https://nasit.seas.upenn.edu/). 
 
+**I am currently on the 2025 job market. Please contact me if you would like to discuss potential openings or collaborations!**
 
 ## Research Interests
 
@@ -35,13 +37,9 @@ I implemented our differentially private federated learning solutions using Pyth
 
 Outside of research, I enjoy practicing creativity through cooking and experimenting with new dishes, hiking new trails, and trying to win at backgammon or other strategic games. When I'm not feeling lazy, I spend time gardening. Whenever possible, I travel to explore new cultures.
 
----
-
-**I am currently on the 2025 job market. Please contact me if you would like to discuss potential openings or collaborations!**
 
 
-
-# Recent News
+## Recent News
 
 ---
 
