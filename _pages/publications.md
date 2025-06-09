@@ -7,9 +7,15 @@ author_profile: true
 This page provides an overview on my publications so far.
 
 ## Thesis
+
+* Distributed Optimization Algorithms With Improved Efficiency, Reliability, Aand Privacy Preservation
+  * *Shahrzad Kianidehkordi*
+  * Doctor of Philosophy in Electrical and Computer Engineering, University of Toronto, Toronto, Canada, June 2025.
+
+
 * Exploitation of Stragglers in Hierarchical Coded Matrix Multiplication [[Link](https://tspace.library.utoronto.ca/handle/1807/101230)]
   * *Shahrzad Kianidehkordi*
-  * Master of Applied Science in Electrical and Computer Engineering, University of Toronto, Toronto, Canada, Sep. 2019.
+  * Master of Applied Science in Electrical and Computer Engineering, University of Toronto, Toronto, Canada, June 2020.
 
 ## Journals and Journal-Length Computer Science Paper:
 * Differentially Private Federated Learning with Time-Adaptive Privacy Spending [[Link](https://openreview.net/forum?id=W0nydevOlG&noteId=zEslc0ErHW)]

@@ -8,23 +8,45 @@ redirect_from:
   - /about.html
 ---
 
-I am currently on the 2025 job market. Please contact me if you would like to discuss potential openings or collaborations!
+I recently completed my Ph.D. in Electrical and Computer Engineering (ECE) at the [University of Toronto](https://www.utoronto.ca/) (UofT), advised by Prof. [Stark C. Draper](https://www.ece.utoronto.ca/people/draper-s/), working at the intersection of distributed systems, machine learning, and data privacy. Before that, I received my MASc. in ECE at UofT, and B.Sc. in Electrical Engineering with a minor in Economics at the [Sharif University of Technology](http://www.en.sharif.edu/).
 
-# About me
-
-I am a final-year Ph.D. candidate in Electrical and Computer Engineering at the [University of Toronto](https://www.utoronto.ca/) (UofT), advised by Prof. [Stark C. Draper](https://www.ece.utoronto.ca/people/draper-s/) through both Ph.D. and MASc. programs. I work at the intersection of **distributed systems**, **machine learning**, and **data privacy**, with a focus on making distributed ML systems more robust against delays (stragglers) and more privacy-aware in settings like *federated learning*. 
-I use tools and ideas from *error-correction codes*, *randomized*, *numerically stable* algorithms, and *differential privacy* (e.g., via the *PyTorch-friendly* library Opacus) to build reliable and trustworthy ML systems, tested on real-world platforms like *Amazon EC2* and *Canada's SciNet* HPC cluster.
-
-My work has been supported by 15+ awards, including but not limited to the NSERC CGS D3, DiDi graduate award, Ontario Graduate Scholarship, and MITACS Globalink Research Award, and has led to 9+ first-author publications in top venues across ML, information theory, and signal processing, with 340+ citations on Google Scholar.
-
-Along the way, I've explored industry and academic collaborations through internships at [CISPA Helmholtz Center for Information Security](https://sprintml.com/) (Spring 2024), Huawei Accelerated Neural Technology team (Summer 2021), and the Chinese University of Hong Kong (Summer 2015).
-I've also been certified by the [International HPC Summer School, Japan 2019](https://ss19.ihpcss.org/), and [North American School of Information Theory, USA 2023](https://nasit.seas.upenn.edu/). Prior to graduate studies, I earned my B.Sc. in Electrical Engineering with a minor in Economics from the [Sharif University of Technology](http://www.en.sharif.edu/).
+To expand industry and academic collaborations, I conducted internships at [CISPA Helmholtz Center for Information Security](https://sprintml.com/), Huawei's Accelerated Neural Technology team, and the Chinese University of Hong Kong.
+I've also been certified at the [International High-Performance Computing Summer School, Japan (IHPCSS'2019)](https://ss19.ihpcss.org/) and the [North American School of Information Theory, USA (NASIT'2023)](https://nasit.seas.upenn.edu/). 
 
 
-Outside of research, I enjoy hiking, cooking and testing new dishes, gardening, and trying to win at backgammon or other strategic games.
+## Research Interests
+
+---
+
+I enjoy creating novel solutions for big data and machine learning problems while exploring diverse research topics, transferring ideas across domains, and ensuring practical effectiveness. My research has focused on distributed systems with heterogeneous characteristics—such as varying computational speeds, privacy constraints, and utility objectives. In such settings, I have worked on two distributed ML tasks: **distributed matrix multiplication**, a fundamental operation in ML training and inference, and **federated learning**, which enables collaborative model training while keeping data local.
+
+To address stragglers in distributed computation and enhance privacy in federated learning, I have applied ideas from:
+
+* **Error-correction codes**: to add efficient redundant computation through coding and recover results through decoding.
+
+* **Randomized, numerically stable, and approximate algorithms**: to trade off accuracy for faster task recovery using polynomials and their interpolation methods.
+
+* **Differential privacy**: to anonymize data participation by applying controlled perturbation such as noise addition, data sampling, model clipping.
+
+* **Optimization**: to tune algorithm parameters and ensure training convergence under privacy and utility constraints.
+
+I implemented our differentially private federated learning solutions using Python with PyTorch and Opacus, and evaluated our straggler-resilient methods on Amazon EC2 and Canada’s SciNet HPC cluster.
+
+## Personal
+
+---
+
+Outside of research, I enjoy practicing creativity through cooking and experimenting with new dishes, hiking new trails, and trying to win at backgammon or other strategic games. When I'm not feeling lazy, I spend time gardening. Whenever possible, I travel to explore new cultures.
+
+---
+
+**I am currently on the 2025 job market. Please contact me if you would like to discuss potential openings or collaborations!**
+
 
 
 # Recent News
+
+---
 
 * March 2025: I passed my Ph.D. Final Oral Exam and submitted my Ph.D. thesis, which was accepted *as is* (with no required revisions)! Huge thanks to my committee members Prof. Stark Draper, Prof. Mohammad Ali Maddah-Ali, Prof. Azarakhsh Malekian, Prof. Dimitrios Hatzinakos, and Prof. Nicolas Papernot!
 
