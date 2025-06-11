@@ -8,46 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: Arial; font-size: 14px;">
+<style>
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+</style>
 
 Welcome! I am a researcher and quantitative engineer who enjoys creating novel solutions for big data and machine learning problems while exploring diverse research topics, transferring ideas across domains, and ensuring practical effectiveness.
 
 **I am currently on the 2025 job market. Please contact me if you would like to discuss potential openings or collaborations!**
 
-</span>
-
-<span style="font-family: Arial;">
-
 # 💼 Professional Experiences
 
-</span>
-
-<span style="font-family: Arial; font-size: 14px;">
 * **Graduate Researcher at UofT**: I built personalized and group-wise differentially private federated learning algorithms to meet heterogeneous privacy needs, and engineered fault-tolerant distributed systems that mitigate stragglers.
 * **Privacy Research Scientist Intern at CISPA**: I designed time-adaptive, personalized privacy budget mechanisms to enhance learning performance under anonymization constraints.
 * **Machine Learning Research Associate Intern at Huawei**: I developed quantization error bounds to optimize hardware-aware training of deep neural networks.
 * **Information Theory Research Intern at CUHK**: I explored fundamental problems in network information theory to model reliability trade-offs in communication channels.
-</span>
-
-<span style="font-family: Arial;">
 
 # 🎓 Academic Background
 
-</span>
-
-<span style="font-family: Arial; font-size: 14px;">
-
 I earned my Ph.D. and MASc. in Electrical and Computer Engineering at the **University of Toronto**, advised by Prof. Stark C. Draper, working on the intersection of distributed systems, machine learning, and data privacy. Before that, I received my B.Sc. in Electrical Engineering (digital systems) with a minor in Economics at the **Sharif University of Technology**.
 
-</span>
-
-<span style="font-family: Arial;">
-
 # 🔬 Areas of Expertise
-
-</span>
-
-<span style="font-family: Arial; font-size: 14px;">
 
 My work spans:
 
@@ -59,14 +42,7 @@ My work spans:
 * **Quantization in Machine Learning**: I analyzed the error of using reduced-precision weights and activations to tradeoff accuracy for speed and memory efficiency.
 * **Implementation**: I built differentially private ML in PyTorch with Opacus, and tested distributed computing on EC2 and SciNet HPC cluster using Python and mpi4py.
 
-</span>
-
-<span style="font-family: Arial;">
-
 # Selected Publications
-
-</span>
-
 
 <style type="text/css">
   .tg  {border-collapse:collapse;border-spacing:0;}
@@ -119,11 +95,7 @@ My work spans:
   </tbody>
 </table>
 
-<span style="font-family: Arial;">
-
 # News
-
-</span>
 
 <table class="tg">
 <thead>
@@ -149,14 +121,6 @@ My work spans:
 </tbody>
 </table>
 
-<span style="font-family: Arial;">
-
 #Personal
 
-</span>
-
-<span style="font-family: Arial; font-size: 14px;">
-
 Outside of research, I enjoy practicing creativity through cooking and experimenting with new dishes, hiking new trails, and trying to win at backgammon or other strategic games. When I'm not lazy, I spend time gardening. Whenever possible, I travel to explore new cultures.
-
-</span>
