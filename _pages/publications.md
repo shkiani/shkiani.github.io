@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+</style>
+
+
 This page provides an overview on my publications so far.
 
 ## Thesis

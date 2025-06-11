@@ -5,6 +5,13 @@ permalink: /awards/
 author_profile: true
 ---
 
+<style>
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+</style>
+
 
 <style type="text/css">
   .tg  {border-collapse:collapse;border-spacing:0;}

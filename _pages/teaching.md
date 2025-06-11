@@ -5,6 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<style>
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+</style>
+
+
 This page provides an overview on my teaching experience so far.
 
 | Teaching Assistant| University of Toronto's course                                                               |
