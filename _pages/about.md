@@ -7,22 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Welcome!
+
+# Welcome!
 I am a researcher and quantitative engineer who enjoys creating novel solutions for big data and machine learning problems while exploring diverse research topics, transferring ideas across domains, and ensuring practical effectiveness.
 
 **I am currently on the 2025 job market. Please contact me if you would like to discuss potential openings or collaborations!**
 
-## 💼 Professional Experiences
-* **Graduate Researcher at UofT**: I built personalized and group-wise differentially private federated learning algorithms to meet heterogeneous privacy and trust requirements, and engineered fault-tolerant systems to mitigate stragglers.
-* **Privacy Research Scientist Intern at CISPA**: I designed time-adaptive, personalized privacy budget mechanisms to enhance federated learning performance under anonymization constraints.
+# 💼 Professional Experiences
+* **Graduate Researcher at UofT**: I built personalized and group-wise differentially private federated learning algorithms to meet heterogeneous privacy needs, and engineered fault-tolerant distributed systems that mitigate stragglers.
+* **Privacy Research Scientist Intern at CISPA**: I designed time-adaptive, personalized privacy budget mechanisms to enhance learning performance under anonymization constraints.
 * **Machine Learning Research Associate Intern at Huawei**: I developed quantization error bounds to optimize hardware-aware training of deep neural networks.
-* **Information Theory Research Intern at CUHK**: I explored fundamental problems in network information theory to model capacity regions and reliability trade-offs in communication channels.
+* **Information Theory Research Intern at CUHK**: I explored fundamental problems in network information theory to model reliability trade-offs in communication channels.
 
-## 🎓 Academic Background
+# 🎓 Academic Background
 
 I earned my Ph.D. and MASc. in Electrical and Computer Engineering at the **University of Toronto**, advised by Prof. Stark C. Draper, working on the intersection of distributed systems, machine learning, and data privacy. Before that, I received my B.Sc. in Electrical Engineering (digital systems) with a minor in Economics at the **Sharif University of Technology**.
 
-## 🔬 Areas of Expertise
+# 🔬 Areas of Expertise
 
 My work spans:
 
@@ -31,10 +32,10 @@ My work spans:
 * **Federated Machine Learning**: My research pioneered the design of private grouped federated learning under personalization constraints.
 * **Algorithm Design**: I designed randomized, numerically stable, and approximate algorithms for mitigating straggler issue in distributed systems.
 * **Error-Correction Codes**: I applied using polynomial coding and interpolation to introduce efficient redundancy and address stragglers in distributed computing.
-* **Quantization in Machine Learning**: I analyzed the error of using reduced-precision weights and activations to balance accuracy with faster computation and lower memory usage.
-* **Implementation**: I implemented our differentially private learning solutions in Python using PyTorch and Opacus, and evaluated our straggler-resilient methods on Amazon EC2 and Canada's SciNet HPC cluster using Python and mpi4py.
+* **Quantization in Machine Learning**: I analyzed the error of using reduced-precision weights and activations to tradeoff accuracy for speed and memory efficiency.
+* **Implementation**: I built differentially private ML in PyTorch with Opacus, and tested distributed computing on EC2 and SciNet HPC cluster using Python and mpi4py.
 
-## Selected Publications
+# Selected Publications
 
 
 <style type="text/css">
@@ -88,10 +89,8 @@ My work spans:
   </tbody>
 </table>
 
-<br>
-  
 
-## News
+# News
 
 
 <table class="tg">
@@ -118,8 +117,6 @@ My work spans:
 </tbody>
 </table>
 
-<br>
-
-## Personal
+# Personal
 
 Outside of research, I enjoy practicing creativity through cooking and experimenting with new dishes, hiking new trails, and trying to win at backgammon or other strategic games. When I'm not lazy, I spend time gardening. Whenever possible, I travel to explore new cultures.
