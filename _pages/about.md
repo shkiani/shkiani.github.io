@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome!
-I am a researcher and quantitative engineer who enjoys creating novel solutions for big data and machine learning problems while exploring diverse research topics, transferring ideas across domains, and ensuring practical effectiveness.
+Welcome! I am a researcher and quantitative engineer who enjoys creating novel solutions for big data and machine learning problems while exploring diverse research topics, transferring ideas across domains, and ensuring practical effectiveness.
 
 **I am currently on the 2025 job market. Please contact me if you would like to discuss potential openings or collaborations!**
 
