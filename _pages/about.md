@@ -7,30 +7,32 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I recently completed my Ph.D. in Electrical and Computer Engineering (ECE) at the [University of Toronto](https://www.utoronto.ca/) (UofT), advised by Prof. [Stark C. Draper](https://www.ece.utoronto.ca/people/draper-s/), working at the intersection of distributed systems, machine learning, and data privacy. Before that, I received my MASc. in ECE at UofT, and B.Sc. in Electrical Engineering with a minor in Economics at the [Sharif University of Technology](http://www.en.sharif.edu/).
-
-To expand industry and academic collaborations, I conducted internships at [CISPA Helmholtz Center for Information Security](https://sprintml.com/), Huawei's Accelerated Neural Technology team, and the Chinese University of Hong Kong.
-I've also been certified at the [International High-Performance Computing Summer School, Japan (IHPCSS'2019)](https://ss19.ihpcss.org/) and the [North American School of Information Theory, USA (NASIT'2023)](https://nasit.seas.upenn.edu/). 
+## Welcome!
+I am a researcher and quantitative engineer who enjoys creating novel solutions for big data and machine learning problems while exploring diverse research topics, transferring ideas across domains, and ensuring practical effectiveness.
 
 **I am currently on the 2025 job market. Please contact me if you would like to discuss potential openings or collaborations!**
 
-## Research Interests
+## 💼 Professional Experiences
+* **Graduate Researcher at UofT**: I built personalized and group-wise differentially private federated learning algorithms to meet heterogeneous privacy and trust requirements, and engineered fault-tolerant systems to mitigate stragglers.
+* **Privacy Research Scientist Intern at CISPA**: I designed time-adaptive, personalized privacy budget mechanisms to enhance federated learning performance under anonymization constraints.
+* **Machine Learning Research Associate Intern at Huawei**: I developed quantization error bounds to optimize hardware-aware training of deep neural networks.
+* **Information Theory Research Intern at CUHK**: I explored fundamental problems in network information theory to model capacity regions and reliability trade-offs in communication channels.
 
+## 🎓 Academic Background
 
+I earned my Ph.D. and MASc. in Electrical and Computer Engineering at the **University of Toronto**, advised by Prof. Stark C. Draper, working on the intersection of distributed systems, machine learning, and data privacy. Before that, I received my B.Sc. in Electrical Engineering (digital systems) with a minor in Economics at the **Sharif University of Technology**.
 
-I enjoy creating novel solutions for big data and machine learning problems while exploring diverse research topics, transferring ideas across domains, and ensuring practical effectiveness. My research has focused on distributed systems with heterogeneous characteristics—such as varying computational speeds, privacy constraints, and utility objectives. In such settings, I have worked on **federated learning**, which enables collaborative model training while keeping data local, and **distributed matrix multiplication**, a fundamental operation in ML training and inference. To enhance privacy in federated learning and address stragglers in distributed computation, I have applied ideas from:
+## 🔬 Areas of Expertise
 
-* **Optimization** tunes algorithm parameters and ensures training convergence under privacy and utility constraints.
+My work spans:
 
-* **Differential privacy** anonymizes data participation by applying controlled perturbation through noise, sampling, and clipping.
-
-* **Randomized, numerically stable, and approximate algorithms** trade off accuracy for faster task recovery using polynomial interpolation.
-
-* **Error-correction codes** add efficient redundant computation through coding and recover results through decoding.
-
-I implemented our differentially private federated learning solutions using Python with PyTorch and Opacus, and evaluated our straggler-resilient methods on Amazon EC2 and Canada's SciNet HPC cluster.
-
+* **Privacy in Machine Learning**: I developed differentially private training methods and implemented them in Python using Opacus. 
+* **Optimization**: I tuned algorithm parameters and analyzed convergence of training algorithms under privacy and utility constraints.
+* **Federated Machine Learning**: My research pioneered the design of private grouped federated learning under personalization constraints.
+* **Algorithm Design**: I designed randomized, numerically stable, and approximate algorithms for mitigating straggler issue in distributed systems.
+* **Error-Correction Codes**: I applied using polynomial coding and interpolation to introduce efficient redundancy and address stragglers in distributed computing.
+* **Quantization in Machine Learning**: I analyzed the error of using reduced-precision weights and activations to balance accuracy with faster computation and lower memory usage.
+* **Implementation**: I implemented our differentially private learning solutions in Python using PyTorch and Opacus, and evaluated our straggler-resilient methods on Amazon EC2 and Canada's SciNet HPC cluster using Python and mpi4py.
 
 ## Selected Publications
 
