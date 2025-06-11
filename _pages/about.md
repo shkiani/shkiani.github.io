@@ -121,6 +121,6 @@ My work spans:
 </tbody>
 </table>
 
-#Personal
+# Personal
 
 Outside of research, I enjoy practicing creativity through cooking and experimenting with new dishes, hiking new trails, and trying to win at backgammon or other strategic games. When I'm not lazy, I spend time gardening. Whenever possible, I travel to explore new cultures.
